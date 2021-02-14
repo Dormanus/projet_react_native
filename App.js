@@ -64,7 +64,7 @@ export default function App() {
           name="Information" 
           component={InfoStack} 
           options={{
-            tabBarLabel: "nformation",
+            tabBarLabel: "Information",
             tabBarIcon: (tabInfo) => <Ionicons name="question mark" size={24} color={tabInfo.color} />
           }}
         />
